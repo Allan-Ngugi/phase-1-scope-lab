@@ -1,0 +1,7 @@
+{
+    "editor.dropIntoEditor.enabled": false,
+    "editor.dragAndDrop": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorStyle": "line"
+}
